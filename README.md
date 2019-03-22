@@ -1,2 +1,0 @@
-# contabilidad-de-costos
-proyecto
